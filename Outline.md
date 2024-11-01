@@ -1,3 +1,4 @@
+## 想法
 * 光明星集团
 * Alibabba × Alilanglang √
 * 云上供销
@@ -6,8 +7,9 @@
   * 主体寿司，全黍乌冬面，柳京小腰
     
 
-参考文献
 ------------------
+## 参考文献
+
 kPad：[三池渊 (平板电脑)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%B1%A0%E6%B7%B5_(%E5%B9%B3%E6%9D%BF%E9%9B%BB%E8%85%A6))
 
 kPhone：[阿里郎 (智能手机)](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E9%83%8E_(%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F))
