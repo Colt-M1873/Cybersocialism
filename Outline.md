@@ -10,6 +10,12 @@
 ------------------
 **参考文献：**
 
+注：朝鲜相关的维基百科一定要切换到英文日文对比看一看，中文页面普遍缺少很多信息
+
+[KCC朝鲜电脑研究中心](https://zh.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE%E9%9B%BB%E8%85%A6%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83)
+
+[红星操作系统](https://zh.wikipedia.org/wiki/%E7%B4%85%E6%98%9F%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1)
+
 kPad：[三池渊 (平板电脑)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%B1%A0%E6%B7%B5_(%E5%B9%B3%E6%9D%BF%E9%9B%BB%E8%85%A6))
 
 kPhone：[阿里郎 (智能手机)](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E9%83%8E_(%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F))
