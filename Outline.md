@@ -29,3 +29,8 @@ Khrome/KimFox：[我的国家 (浏览器)](https://zh.wikipedia.org/wiki/%E6%88%
 朝鲜综合分析网站 [38North](https://www.38north.org/)
 
 38North下属朝鲜科技分析网站[North Korea Tech](https://www.northkoreatech.org/)
+
+
+[金策工業大學](https://zh.wikipedia.org/wiki/%E9%87%91%E7%AD%96%E5%B7%A5%E6%A5%AD%E7%B6%9C%E5%90%88%E5%A4%A7%E5%AD%B8)  [金策工業大學-英文wiki](https://en.wikipedia.org/wiki/Kim_Chaek_University_of_Technology)
+
+[Park Jin Hyok](https://en.wikipedia.org/wiki/Park_Jin_Hyok)
