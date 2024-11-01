@@ -14,4 +14,4 @@
 > 
 > KFW：[光明网](https://zh.wikipedia.org/wiki/%E5%85%89%E6%98%8E%E7%BD%91_(%E6%9C%9D%E9%B2%9C))
 > 
-> Khrome[我的国家 (浏览器)](https://zh.wikipedia.org/wiki/%E6%88%91%E7%9A%84%E5%9B%BD%E5%AE%B6_(%E6%B5%8F%E8%A7%88%E5%99%A8))
+> Khrome：[我的国家 (浏览器)](https://zh.wikipedia.org/wiki/%E6%88%91%E7%9A%84%E5%9B%BD%E5%AE%B6_(%E6%B5%8F%E8%A7%88%E5%99%A8))
